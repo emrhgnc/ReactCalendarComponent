@@ -1,0 +1,16 @@
+{
+  "name": "calendarfordyg",
+  "version": "1.0.0",
+  "description": "A Calendar Component For Dyg",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar",
+    "event",
+    "slot"
+  ],
+  "author": "Emrah Genc",
+  "license": "ISC"
+}
